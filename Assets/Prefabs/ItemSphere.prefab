@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8442605323225123795}
   - component: {fileID: 8442605323225123794}
   - component: {fileID: 8442605323225123797}
-  - component: {fileID: 7912917586704170780}
+  - component: {fileID: 3824568365286154527}
   m_Layer: 0
   m_Name: ImageHolder
   m_TagString: Untagged
@@ -97,7 +97,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 14
   m_CollisionDetection: 0
---- !u!114 &7912917586704170780
+--- !u!114 &3824568365286154527
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -106,7 +106,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 8442605323225123792}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2268b8a3131d8ee4baf57951699d8f3e, type: 3}
+  m_Script: {fileID: 11500000, guid: 78adadae0e6562a43afe05ba95d9ec23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
@@ -172,7 +172,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 61ede91b2c0599e40bb59d1d8d73b190, type: 2}
+  - {fileID: 2100000, guid: 55c9fd5d8326fc141a0a1e2eec0fe446, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
